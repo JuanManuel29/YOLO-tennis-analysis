@@ -1,0 +1,5 @@
+Videos have to be clips of tennis points
+
+Modify the input video name in the main file
+
+Output will be generated and stored in the path you assigned for the output

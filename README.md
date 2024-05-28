@@ -1,5 +1,4 @@
 # YOLO-tennis-analysis
-We are going to use YOLO to analyze tennis points
 
 ## Description:
 This repository contains a project that utilizes YOLO (You Only Look Once), a state-of-the-art object detection algorithm, to analyze tennis points. The project focuses on analyzing the speed of the ball and the distance covered by the players during a tennis match.

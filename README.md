@@ -1,8 +1,21 @@
 # YOLO-tennis-analysis
 We are going to use YOLO to analyze tennis points
 
-## License:
-This project is licensed under the MIT License. See the LICENSE file for details.
+## Description:
+This repository contains a project that utilizes YOLO (You Only Look Once), a state-of-the-art object detection algorithm, to analyze tennis points. The project focuses on analyzing the speed of the ball and the distance covered by the players during a tennis match.
+
+## Features:
+- Utilizes YOLO for real-time object detection of tennis balls and players.
+- Calculates the speed of the tennis ball based on its trajectory.
+- Estimates the distance covered by players using tracking algorithms.
+- Provides visualizations and statistics for analysis.
+
+## Dependencies:
+
+- Python3
+- YOLOv5 and/or YOLOv8 (or newer versions)
+- OpenCV
+- NumPy
 
 ## Acknowledgements:
 
